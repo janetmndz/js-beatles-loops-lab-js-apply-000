@@ -20,6 +20,12 @@ function johnLennonFacts(arr){
 }
 
 function iLoveTheBeatles(num){
-  var arr = [];
-  do{}while;
+  var beetlesLove = [];
+  do{
+    num++
+  } while(num < 15);
+  
+  return
+  
 }
+
