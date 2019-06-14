@@ -14,6 +14,7 @@ function johnLennonFacts(arr){
   var loudFacts= [];
   while(n < arr.length ){
     loudFacts.push(`${arr[n]}!!!`);
+    n++;
   }
   return loudFacts;
 }
